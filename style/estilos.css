@@ -1,3 +1,10 @@
-h1{
+.texto-azul{
     color: blue;
+}
+.texto-grisClaro{
+    color: lightslategray;
+}
+
+.texto-dorado{
+    color: gold;
 }
